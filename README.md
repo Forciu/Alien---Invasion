@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Alien Invasion Game </h1>
+<h1 align="center">Welcome to my Alien Invasion Game!</h1>
 
 <div align=center margin= auto> 
   <img src="img.png"  width=90%>
@@ -7,12 +7,13 @@
 # Alien Invasion
 Game - Alien invasion is based on the book "Python Crash Course" Eric Matthes.
 In addition to the base from the book, several elements have been added to the game
-* One is adding an up-down movement or adding a background.
-* Changed Font
+* Aadding an up-down movement.
+* Adding background.
+* Changed Font.
 * Changed image
 https://www.nicepng.com/ourpic/u2w7w7e6e6e6i1a9_space-ship-small-small-transparent-spaceship/
 https://www.nicepng.com/ourpic/u2w7w7i1t4u2w7a9_statek-kosmiczny-icon-spaceship-fighter-clip-art/
-* and other changes
+* and other changes.
 
 The reason for the creation was to improve my Python skills.
 
