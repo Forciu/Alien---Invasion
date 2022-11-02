@@ -27,4 +27,4 @@ In alien invasion, the player controls a spaceship and his main task is to defea
 - Arrows keys = Move the ship left/right/top/down
 - Q = Quit
 
-<h1> Thank you for your visit and have fun! </h1>
+<h1> Thank for your visit and have fun! </h1>
