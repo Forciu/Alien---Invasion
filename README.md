@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to my Alien Invasion Game ??</h1>
+<h1 align="center">Welcome to my Alien Invasion Game </h1>
 
 <div align=center margin= auto> 
-  <img src="img.png"  width=50%>
+  <img src="img.png"  width=80%>
 </div>
 
 # Alien Invasion
